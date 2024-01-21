@@ -21,7 +21,7 @@ Welcome to the React App Showcase repository! 🌟 Explore a world of creativity
 
 ## Getting Started 🚀
 
-1. Clone the repository: `git clone https://github.com/your-username/react-app-showcase.git`
+1. Clone the repository: `git clone https://github.com/rajathbrgowda/React-Apps/`
 2. Navigate to the app of your choice: `cd app-name`
 3. Install dependencies: `npm install`
 4. Run the app: `npm start`
